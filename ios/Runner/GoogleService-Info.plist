@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>185661664972-m22pvmp9fd9b6631v3eia8embd9idsm8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.185661664972-m22pvmp9fd9b6631v3eia8embd9idsm8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>185661664972-ai5m4i2ukdhvdeslu36m828u9m1b7m48.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0dz5uaU-hgaI_GSuG02phq6wfF7mgxeQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>185661664972</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.m3rady.app</string>
+	<key>PROJECT_ID</key>
+	<string>pc-api-4652760247159134803-62</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pc-api-4652760247159134803-62.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:185661664972:ios:4c0494a53cd0581e835c69</string>
+</dict>
+</plist>

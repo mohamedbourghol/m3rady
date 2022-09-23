@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "185661664972",
+    "project_id": "pc-api-4652760247159134803-62",
+    "storage_bucket": "pc-api-4652760247159134803-62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185661664972:android:f7965727ac534f35835c69",
+        "android_client_info": {
+          "package_name": "com.m3rady.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185661664972-c4c5gdkiu1rlra19cd1r1l77ec4k58u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m3rady.app",
+            "certificate_hash": "a5cc6d033b59128906e0b5f982b4001067cdcd5a"
+          }
+        },
+        {
+          "client_id": "185661664972-khh1ucgkpulh05quhdm5gmgptlan0k5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m3rady.app",
+            "certificate_hash": "1a5b32a6482a5d66682e2991ccf2690994ccf3d6"
+          }
+        },
+        {
+          "client_id": "185661664972-or39s3smh8ivq5j8op8220iq24e6db9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq94I4d3QXl0SD0z73Iy7vKDLNHerlTdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185661664972-or39s3smh8ivq5j8op8220iq24e6db9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185661664972-m22pvmp9fd9b6631v3eia8embd9idsm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.m3rady.app",
+                "app_store_id": "1560576582"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
